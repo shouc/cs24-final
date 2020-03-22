@@ -1,0 +1,2 @@
+ full binary trees - binary tree with every node (except leaf node) having 2 children
+ complete binary trees - binary tree in which all levels except last are completely filled and all last level having nodes at left.
